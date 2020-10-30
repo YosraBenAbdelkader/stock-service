@@ -1,4 +1,6 @@
-# stock-service consume db-service
+# stock-service 
+with db-service && eureka-service
+
 
 Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul
 
